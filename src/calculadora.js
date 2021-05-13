@@ -1,4 +1,6 @@
-
+const suma = (a, b) => {
+    return a+b;
+}
 // Prueba de la función suma
 const prueba_suma = () => {
     // Probar que 2 + 5 devuelve 7
